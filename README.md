@@ -1,1 +1,3 @@
-# firefox-custom-css
+# firefox custom style
+
+create userChrome.css inside profile folder
